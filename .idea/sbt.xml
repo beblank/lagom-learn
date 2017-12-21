@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/consumer-api" />
+            <option value="$PROJECT_DIR$/consumer-api/project" />
+            <option value="$PROJECT_DIR$/consumer-impl" />
+            <option value="$PROJECT_DIR$/consumer-impl/project" />
+            <option value="$PROJECT_DIR$/hello-api" />
+            <option value="$PROJECT_DIR$/hello-api/project" />
+            <option value="$PROJECT_DIR$/hello-impl" />
+            <option value="$PROJECT_DIR$/hello-impl/project" />
+            <option value="$PROJECT_DIR$/hello-stream-api" />
+            <option value="$PROJECT_DIR$/hello-stream-api/project" />
+            <option value="$PROJECT_DIR$/hello-stream-impl" />
+            <option value="$PROJECT_DIR$/hello-stream-impl/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/token-api" />
+            <option value="$PROJECT_DIR$/token-api/project" />
+            <option value="$PROJECT_DIR$/token-impl" />
+            <option value="$PROJECT_DIR$/token-impl/project" />
+            <option value="$PROJECT_DIR$/trip-api" />
+            <option value="$PROJECT_DIR$/trip-api/project" />
+            <option value="$PROJECT_DIR$/trip-impl" />
+            <option value="$PROJECT_DIR$/trip-impl/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
